@@ -13,3 +13,14 @@ Expanded filters for options ingestion.
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-08-17 01:10:20
+Started with impl of csp-recommendations, shared object (cache) and iv_history (#13)
+
+* Started with impl of csp-recommendations, created a shared object (cache like), built iv_history signals
+
+* Update SQL queries for getting ticker and IV data
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
