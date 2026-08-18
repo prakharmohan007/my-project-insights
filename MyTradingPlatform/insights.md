@@ -24,3 +24,8 @@ Started with impl of csp-recommendations, shared object (cache) and iv_history (
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-08-18 03:39:53
+Added unit tests and wired config to iv_indicator.py (#14)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
