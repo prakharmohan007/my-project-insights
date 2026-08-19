@@ -29,3 +29,6 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 Added unit tests and wired config to iv_indicator.py (#14)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-08-19 01:52:26
+update underlying iv retention to 2 years
