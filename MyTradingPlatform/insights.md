@@ -42,3 +42,8 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 Phase4/Subtask1/Step1: Short interest integration (#16)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-08-19 06:23:24
+phase4/subtask1/step2: implemented max_drawdown 1y (#17)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
