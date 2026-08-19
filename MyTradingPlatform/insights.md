@@ -32,3 +32,8 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 
 ### 2026-08-19 01:52:26
 update underlying iv retention to 2 years
+
+### 2026-08-19 05:27:39
+converted adapters to singleton (#15)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
