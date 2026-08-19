@@ -37,3 +37,8 @@ update underlying iv retention to 2 years
 converted adapters to singleton (#15)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-08-19 05:51:29
+Phase4/Subtask1/Step1: Short interest integration (#16)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
