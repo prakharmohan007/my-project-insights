@@ -47,3 +47,8 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 phase4/subtask1/step2: implemented max_drawdown 1y (#17)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-08-20 04:50:21
+Phase4/Subtask1/Step3: Implemented Beta indicator (#18)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
