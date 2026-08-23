@@ -64,3 +64,6 @@ Updated modules and rule instructions
 
 ### 2026-08-23 05:15:10
 [Unreviewed but Non-breaking] Implemented a basic frontend with dashboards and widgets (#20)
+
+### 2026-08-23 05:17:47
+Update infra to be reachable from dashboard
