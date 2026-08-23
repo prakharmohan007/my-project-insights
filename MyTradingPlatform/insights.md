@@ -67,3 +67,6 @@ Updated modules and rule instructions
 
 ### 2026-08-23 05:17:47
 Update infra to be reachable from dashboard
+
+### 2026-08-23 05:57:29
+Expose ticker metadata to dashboard API
