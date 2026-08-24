@@ -70,3 +70,8 @@ Update infra to be reachable from dashboard
 
 ### 2026-08-23 05:57:29
 Expose ticker metadata to dashboard API
+
+### 2026-08-24 00:48:24
+Added short intrest ingestion (#22)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
