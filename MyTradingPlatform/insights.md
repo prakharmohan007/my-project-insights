@@ -75,3 +75,6 @@ Expose ticker metadata to dashboard API
 Added short intrest ingestion (#22)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-09-02 03:24:50
+added design doc for LLM interface. Added Phase1 subtasks
