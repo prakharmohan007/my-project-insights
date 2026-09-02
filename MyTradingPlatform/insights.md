@@ -78,3 +78,6 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 
 ### 2026-09-02 03:24:50
 added design doc for LLM interface. Added Phase1 subtasks
+
+### 2026-09-02 04:35:17
+Added pipeline_run_id and pipeline_run_time to all tables (#23)
