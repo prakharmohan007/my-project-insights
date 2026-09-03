@@ -81,3 +81,6 @@ added design doc for LLM interface. Added Phase1 subtasks
 
 ### 2026-09-02 04:35:17
 Added pipeline_run_id and pipeline_run_time to all tables (#23)
+
+### 2026-09-03 03:14:25
+Integrated with claude code for automated PR review upon request on github
