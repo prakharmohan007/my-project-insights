@@ -93,3 +93,6 @@ allowed claude code review workflow to access github commands needed for code re
 
 ### 2026-09-03 03:57:38
 Allowed claude review agent workflow to be able to post comments on PRs on Github
+
+### 2026-09-03 04:24:38
+Added trigger AI Code review by label
