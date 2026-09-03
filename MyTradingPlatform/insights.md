@@ -90,3 +90,6 @@ debugging claide code review for github
 
 ### 2026-09-03 03:42:40
 allowed claude code review workflow to access github commands needed for code review
+
+### 2026-09-03 03:57:38
+Allowed claude review agent workflow to be able to post comments on PRs on Github
