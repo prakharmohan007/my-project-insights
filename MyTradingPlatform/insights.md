@@ -87,3 +87,6 @@ Integrated with claude code for automated PR review upon request on github
 
 ### 2026-09-03 03:28:43
 debugging claide code review for github
+
+### 2026-09-03 03:42:40
+allowed claude code review workflow to access github commands needed for code review
