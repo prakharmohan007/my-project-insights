@@ -113,3 +113,6 @@ Added three ingesion pipeline compleetion status
 3. FAILED: An exception, or Validation failure
 
 The email will contain pipeline execution status along with data regarding each steps.
+
+### 2026-09-07 07:58:43
+Fixed terraform and env variables
