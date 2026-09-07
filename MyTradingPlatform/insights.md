@@ -102,3 +102,14 @@ Added post ingession and add hoc latest data ingestion validations
 
 
 ---------
+
+### 2026-09-07 07:10:28
+Gmail notification for Ingestion Pipeline completion status (#30)
+
+Added three ingesion pipeline compleetion status
+
+1. SUCCESS: All Steps completed successfully
+2. SKIPPED: Market day Closed
+3. FAILED: An exception, or Validation failure
+
+The email will contain pipeline execution status along with data regarding each steps.
