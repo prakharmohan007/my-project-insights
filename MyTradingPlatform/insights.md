@@ -119,3 +119,6 @@ Fixed terraform and env variables
 
 ### 2026-09-10 03:50:49
 Setup Cloudflare
+
+### 2026-09-10 05:13:25
+Created an agentic-advisor container, added FastMcp, cretaed skeleton
