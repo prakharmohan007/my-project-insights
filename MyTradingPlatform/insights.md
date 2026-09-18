@@ -122,3 +122,8 @@ Setup Cloudflare
 
 ### 2026-09-10 05:13:25
 Created an agentic-advisor container, added FastMcp, cretaed skeleton
+
+### 2026-09-18 03:21:08
+Implemented JWT Auth for agentic advisor (#32)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
