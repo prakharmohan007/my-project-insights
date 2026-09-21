@@ -127,3 +127,14 @@ Created an agentic-advisor container, added FastMcp, cretaed skeleton
 Implemented JWT Auth for agentic advisor (#32)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-09-21 05:03:21
+Added registry and tool models (#33)
+
+* Added registry and tool models
+
+* updateed guarded callable
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
