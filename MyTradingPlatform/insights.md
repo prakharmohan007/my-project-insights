@@ -138,3 +138,11 @@ Added registry and tool models (#33)
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-09-24 05:57:18
+Added Feature Request Tool for LLM (#34)
+
+Added Feature Request Tool for LLM. The LLM can list exisitng issue and create or update an existing issue.
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
