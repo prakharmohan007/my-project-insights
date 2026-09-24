@@ -146,3 +146,6 @@ Added Feature Request Tool for LLM. The LLM can list exisitng issue and create o
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-09-24 06:19:27
+Integration tests fixes
