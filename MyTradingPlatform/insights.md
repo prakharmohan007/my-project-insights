@@ -149,3 +149,6 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 
 ### 2026-09-24 06:19:27
 Integration tests fixes
+
+### 2026-09-25 06:05:37
+Fixed ageentic advisor role
