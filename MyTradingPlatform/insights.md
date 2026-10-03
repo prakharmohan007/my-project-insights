@@ -152,3 +152,6 @@ Integration tests fixes
 
 ### 2026-09-25 06:05:37
 Fixed ageentic advisor role
+
+### 2026-10-03 02:58:40
+doc update
