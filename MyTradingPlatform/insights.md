@@ -155,3 +155,6 @@ Fixed ageentic advisor role
 
 ### 2026-10-03 02:58:40
 doc update
+
+### 2026-10-04 07:25:40
+Updated role to ensure advisor informs before filing for feature requests
