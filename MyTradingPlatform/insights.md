@@ -177,3 +177,6 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 removed sources from tool output (#45)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-07 07:09:39
+Fixed tol description and fields for get_stock_snapshot
