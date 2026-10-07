@@ -172,3 +172,8 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-07 06:18:07
+removed sources from tool output (#45)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
