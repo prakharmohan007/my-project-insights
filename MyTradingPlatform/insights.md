@@ -186,3 +186,14 @@ Fixed tol description and fields for get_stock_snapshot
 
 ### 2026-10-08 02:14:22
 Updated tool's description
+
+### 2026-10-08 02:45:40
+Resolved confusion around <>.<> or <>/<> or <>-<>. Now everything in … (#51)
+
+* Resolved confusion around <>.<> or <>/<> or <>-<>. Now everything in the DB is <>.<> and is converted to different forms based on vendor's requirements
+
+* Addressed AI Code review
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
