@@ -197,3 +197,14 @@ Resolved confusion around <>.<> or <>/<> or <>-<>. Now everything in … (#51)
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-08 03:18:39
+Added tool: get_stock_price_history (#52)
+
+* Added tool: get_stock_price_history
+
+* Updated Caveat
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
