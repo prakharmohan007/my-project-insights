@@ -246,3 +246,14 @@ Co-authored-by: Claude Sonnet 5.5 <noreply@anthropic.com>
 Added ADRC and ETF as well (#55)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-12 01:45:21
+Include adrc etf (#56)
+
+* Added ADRC and ETF as well
+
+* Updated Options ingestion to only use CS and SDRC. Skip ETFs
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
