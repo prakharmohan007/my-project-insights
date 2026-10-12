@@ -257,3 +257,6 @@ Include adrc etf (#56)
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-12 01:55:07
+Fixed lookback for backfill
