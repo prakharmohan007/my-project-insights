@@ -241,3 +241,8 @@ Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 Co-authored-by: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+### 2026-10-12 01:26:31
+Added ADRC and ETF as well (#55)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
