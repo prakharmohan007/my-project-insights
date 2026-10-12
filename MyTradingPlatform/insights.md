@@ -213,3 +213,31 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 Updated get_stock_price_history tool (#53)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-12 00:40:41
+Impleted split adjusted backfil of data (#54)
+
+* Impleted split adjusted backfil of data
+
+* Address PR #54 review: repo-level chunking, collect-and-continue, auth abort
+
+- upsert_batch chunks 500 rows/INSERT; pipelines pass a whole day at once
+- calendar month failures are retried then collected, not raised
+- Massive adapter raises MassiveHTTPError/MassiveAuthError (status via raw=True);
+  only 429/5xx/network retried, 401/403 abort the run
+- date helpers moved to src/common/utils.py (years and days variants)
+- repo + failure-path tests; design doc updated with D3 verification
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+* Fix short_interest test helpers masked by the stale local schema
+
+- _snapshot: merge overrides into the defaults instead of passing both as kwargs
+- mixed-shape multi-row upserts now use a _uniform() helper so every row has the same keys
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+Co-authored-by: Claude Sonnet 5.5 <noreply@anthropic.com>
