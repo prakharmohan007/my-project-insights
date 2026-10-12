@@ -263,3 +263,6 @@ Fixed lookback for backfill
 
 ### 2026-10-12 02:02:24
 added default backfill
+
+### 2026-10-12 02:27:25
+Filter for Active, and CS, ADRC for backfill
