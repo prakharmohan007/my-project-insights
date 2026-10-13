@@ -272,3 +272,8 @@ Filter backfill by active and types
 
 ### 2026-10-13 06:28:51
 updated moving averages tool design
+
+### 2026-10-13 06:56:29
+Updated _pct values to actual percentage instead of fraction (#57)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
