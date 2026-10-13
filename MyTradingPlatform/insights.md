@@ -269,3 +269,6 @@ Filter for Active, and CS, ADRC for backfill
 
 ### 2026-10-12 02:32:16
 Filter backfill by active and types
+
+### 2026-10-13 06:28:51
+updated moving averages tool design
