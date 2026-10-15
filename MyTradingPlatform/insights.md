@@ -308,3 +308,6 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 Make MA series as opt-in (#61)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-15 06:35:35
+updated tool status doc
