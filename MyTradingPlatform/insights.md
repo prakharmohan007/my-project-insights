@@ -287,3 +287,14 @@ Exposing Moving Averages tool for agentic advisor (#58)
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-15 04:41:22
+[Tools] technical indicators: Implemented phase4: tool registry and m… (#59)
+
+* [Tools] technical indicators: Implemented phase4: tool registry and moving averages subsection
+
+* Updated the tech indicator tool description and considered whole history
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
