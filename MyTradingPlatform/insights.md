@@ -303,3 +303,8 @@ Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
 [Tools] Moving Averages: Incorporated agentic advisor's suggestions for the tool (#60)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-15 06:11:26
+Make MA series as opt-in (#61)
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
