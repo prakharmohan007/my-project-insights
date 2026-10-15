@@ -277,3 +277,13 @@ updated moving averages tool design
 Updated _pct values to actual percentage instead of fraction (#57)
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-10-15 03:47:38
+Exposing Moving Averages tool for agentic advisor (#58)
+
+
+* Phase 3: Implemented moving averages backend
+
+---------
+
+Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
