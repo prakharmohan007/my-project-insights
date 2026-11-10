@@ -339,3 +339,6 @@ Fixing add trade form bug
 
 ### 2026-11-10 05:09:25
 Fixed Edit trade panel
+
+### 2026-11-10 05:31:28
+updat edit panel
