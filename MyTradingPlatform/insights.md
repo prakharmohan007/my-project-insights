@@ -333,3 +333,6 @@ initial commit fot add trades (#65)
 ---------
 
 Co-authored-by: Prakhar Mohan <prakharmohan@Prakhars-MAC.local>
+
+### 2026-11-10 04:47:35
+Fixing add trade form bug
